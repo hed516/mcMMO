@@ -35,13 +35,6 @@ In December 2018, the original author and creator of mcMMO (nossr50) returned an
 [![gmcferrin](http://www.gravatar.com/avatar/b64c52daf25d206b27650788b5813b7b.png)](https://github.com/gmcferrin)
 
 ### Former team members
-[![bm01](http://www.gravatar.com/avatar/ec8146f5358177f12e9a252271bbc391.png)](https://github.com/bm01)
-[![Glitchfinder](http://www.gravatar.com/avatar/5aa4cce22f72ae9c002ecec30f061d00.png)](https://github.com/Glitchfinder)
-[![NuclearW](http://www.gravatar.com/avatar/90926bdcf1c8a75918df5ea5fa801ce6.png)](https://github.com/NuclearW)
-[![shatteredbeam](http://www.gravatar.com/avatar/cad3b5d7d39cf5387afb87f494389610.png)](https://github.com/shatteredbeam)
-[![TfT_02](http://www.gravatar.com/avatar/b8914f9970e1f6ffd5281ce4770e20a7.png)](https://github.com/TfT-02)
-[![riking](https://1.gravatar.com/avatar/aca9f37e569ac3a63929920035a91ba4.png)](https://github.com/riking)
-[![TheYeti](https://i.imgur.com/tzFrxdo.png)](https://github.com/TheYeti)
 
 ## Compiling
 
